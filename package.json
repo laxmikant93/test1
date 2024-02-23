@@ -1,0 +1,17 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "laxmi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
